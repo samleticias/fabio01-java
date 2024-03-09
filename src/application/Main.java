@@ -9,6 +9,7 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
+
         System.out.print("Digite a velocidade em m/s: ");
         double velocidade_ms = sc.nextDouble();
 
